@@ -18,4 +18,4 @@ function bm_preg_replace($loops){
         preg_replace("/is not/", "has been",$str);
     }
 }
-//hello
+//hello world
